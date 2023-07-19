@@ -1,0 +1,37 @@
+.navbar {
+    background-color: #fff;
+   
+    position: relative;
+}
+.nav-top {
+    height: 73px;
+    width: 1268px;
+    display: flex;
+    align-items: center;
+}
+.nav-top span {
+    gap: 200px;
+    font-size: 18px;
+}
+.register {
+    width: 136px;
+    height: 45px;
+    background-color: #FF7373;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+.signin {
+    width: 136px;
+    height: 45px;
+    background-color: #73ABFF;
+    border-radius: 20px;
+    margin: 20px;
+
+
+}
+h1 {
+
+    font-size: 32px;
+    margin: 20px;
+}

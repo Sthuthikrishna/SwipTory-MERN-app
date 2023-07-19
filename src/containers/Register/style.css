@@ -1,0 +1,62 @@
+.r-container {
+    margin-left: 400px;
+    margin-top: 200px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    background-color: rgb(245, 239, 239);
+    box-sizing: border-box;
+    width: 624px;
+    height: 482px;
+    border: 2px solid;
+    border-radius: 20px;
+    box-shadow: 3px 2px 0 3px;
+
+}
+h2 {
+    font-size: 25px;
+    margin-top: 35px;
+
+}
+.fm {
+    font-size: 20px;
+
+}
+
+input {
+    width: 245px;
+    height: 35px;
+    margin: 15px;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.fm1 input{
+    gap: 10px;
+    margin-left: 18px;
+
+
+}
+.fm2 input {
+    gap: 10px;
+    margin-left: 50px;
+
+}
+.reg {
+
+    width: 129px;
+    height: 45px;
+    background-color:  #73ABFF;
+    border-radius: 20px;
+    font-size: 18px;
+    margin: 20px;
+}
+img {
+    margin-left: 500px;
+    margin-top: 15px;
+    padding: 5px;
+    background-color: rgb(240, 79, 79);
+    border-radius: 20px;
+    width: 25px;
+    height: 25px;
+}
